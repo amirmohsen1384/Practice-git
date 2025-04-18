@@ -7,7 +7,7 @@ void Print() {
 
 // This is a sample C++ program
 int main() {
-    cout << "Hello, world." << endl;
+    cout << "This is a sample C++ program" << endl;
     Print();
     return 0;
 }
